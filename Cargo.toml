@@ -1,0 +1,8 @@
+[package]
+name = "rk3399-pac"
+version = "0.1.0"
+authors = ["rk3399 PAC authors"]
+edition = "2021"
+
+[dependencies]
+vcell = "0.1.3"
